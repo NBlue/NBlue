@@ -4,12 +4,14 @@
 
 # 💫About Me :
 
-🔥 I'm Nguyen Phuong Nam 🐍🧑‍🎓
-🔥 I come from Earth 🌏
+<div>
+  <div>🔥 I'm Nguyen Phuong Nam 🐍🧑‍🎓</div>
+  <div>🔥 I come from Vietnam 🌏</div>
+</div>
 
 ## 🌐Socials
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100010348932056) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nblue151/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ph%C6%B0%C6%A1ng-nam-nguy%E1%BB%85n-b58bbb23a/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@npnx151)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010348932056) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nblue151/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ph%C6%B0%C6%A1ng-nam-nguy%E1%BB%85n-b58bbb23a/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@npnx151)
 
 # 💻Tech Stack
 
