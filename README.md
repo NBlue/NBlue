@@ -1,13 +1,14 @@
-<!-- <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
-</a> -->
-
-# 💫About Me :
+# 💫About Me:
 
 <div>
-  <div>🔥 I'm Nguyen Phuong Nam 🐍🧑‍🎓</div>
-  <div>🔥 I come from Vietnam 🌏</div>
+
+  <p>🔥 I'm Nguyen Phuong Nam 🐍🧑‍🎓</p>
+  <p>🔥 I am a quality-oriented software engineer who always wants to do right things and do things right. Hence, I can collaborate very well with teammates meanwhile working independently is one of my strong points. </p>
+  <div style="text-align:center">🍀🍀🍀🍀🍀</div>
+  
 </div>
+
+<img src="./images/profile3_git.webp.gif" alt="JavaScript logo" title="JavaScript" style="width:100%;margin-top:40px"/>
 
 ## 🌐Socials
 
@@ -33,10 +34,4 @@
 
 <div align="center">
 <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-### 😂 Dev Meme
-
-<div align="center">
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 </div>
